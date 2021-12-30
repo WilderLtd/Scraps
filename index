@@ -1,1 +1,9 @@
-
+<html>
+	<head>
+		<title>Introducing Wilder Ltd.</title>
+	</head>
+	<body>
+		<h1>Wilder Ltd.</h1>
+		<p><img src=“Greta.jpg” alt=“Thunberg” width="104" height="142"></p>
+	</body>
+</html>
